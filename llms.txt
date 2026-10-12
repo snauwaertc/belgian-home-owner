@@ -1,0 +1,17 @@
+# Belgian Home Owner
+
+> A task-oriented list, in Dutch, of open-source projects and official sources for Belgian home owners. For each
+> entry: what it does, what you use it for, licence or price, and date of last change. Topics: single-line diagram and
+> electrical inspection (AREI), the Fluvius digital meter (P1 port), the Flemish capacity tariff, dynamic prices,
+> energy management with Home Assistant, heating via eBUS, irrigation, Belgian weather (KMI) and waste collection calendars, modelling a house (open geodata, RoomPlan, IFC),
+> and read-only bank access (PSD2). Entries describe what projects say they do; inclusion is not a recommendation.
+
+## The list
+
+- [README](README.md): the full list, by task
+
+## Maintenance
+
+- [Contributing](CONTRIBUTING.md): what belongs in the list, the format of an entry, rejected links
+- [Skills overview](skills/README.md): procedures an AI agent can follow
+- [lijst-nakijken](skills/lijst-nakijken/SKILL.md): verify every link, licence and last-change date in the list

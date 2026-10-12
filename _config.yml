@@ -3,3 +3,6 @@ description: >-
   Lijst van open projecten en officiële bronnen voor Belgische huiseigenaars, per taak: eendraadschema en keuring
   (AREI), digitale meter, capaciteitstarief, domotica, je woning modelleren en huishoudfinanciën.
 lang: nl
+include:
+  - CONTRIBUTING.md
+  - LICENSE.md

@@ -125,7 +125,6 @@ opengezet worden.
 | Naam | Wat het doet | Waarvoor je het gebruikt | Soort en licentie | Laatste wijziging |
 |---|---|---|---|---|
 | [openPlan3D](https://github.com/laanlabs/openPlan3D) | Plattegrondeditor in 2D en 3D die in de browser draait ([app.openplan3d.com](https://app.openplan3d.com/)), met een iPhone-app die kamers scant met LiDAR en muren, deuren en ramen opbouwt terwijl je rondloopt | Een woning opmeten met je telefoon en de plattegrond bewerken en exporteren | open, MIT | 2026-09-17 |
-| [Apple RoomPlan](https://developer.apple.com/augmented-reality/roomplan/) | De techniek in iPhones en iPads met LiDAR die een kamer scant en muren, openingen en meubels herkent; scan-apps zoals openPlan3D bouwen hierop | Weten wat een scan-app wel en niet kan meten | Apple | n.v.t. |
 
 ### Een model bouwen en plannen maken
 
